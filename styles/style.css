@@ -1,0 +1,26 @@
+.cover {
+  height: 30vh;
+  background-image: url("../images/sea_tree.jfif");
+  background-size: cover;
+  background-position: center;
+}
+
+.cover h1 {
+  font-size: 50px;
+  color: aqua;
+}
+
+.fish img {
+  height: 250px;
+  width: 350px;
+}
+
+.tanks img {
+  width: 350px;
+  height: 150px;
+}
+
+.review #r-1 {
+  border: 2px solid black;
+}
+/*# sourceMappingURL=style.css.map */
